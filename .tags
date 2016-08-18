@@ -5,13 +5,14 @@
 !_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
 !_TAG_PROGRAM_VERSION	5.8	//
 build	package.json	/^    "build": "react-scripts build",$/;"	f
-class.state.data	src/App.js	/^    this.state = {$/;"	p
 d3	package.json	/^    "d3": "^3.5.17",$/;"	f
 dependencies	package.json	/^  "dependencies": {$/;"	f
 devDependencies	package.json	/^  "devDependencies": {$/;"	f
 eject	package.json	/^    "eject": "react-scripts eject"$/;"	f
 eslintConfig	package.json	/^  "eslintConfig": {$/;"	f
 extends	package.json	/^    "extends": ".\/node_modules\/react-scripts\/config\/eslint.js"$/;"	f
+from.state.data	src/App.js	/^    this.state = {$/;"	p
+lodash	package.json	/^    "lodash": "^4.15.0",$/;"	f
 name	package.json	/^  "name": "vizapp",$/;"	f
 private	package.json	/^  "private": true,$/;"	f
 react	package.json	/^    "react": "^15.2.1",$/;"	f
